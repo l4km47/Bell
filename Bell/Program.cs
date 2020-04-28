@@ -31,11 +31,11 @@ namespace RcisSchoolBell
             var f = new Form1();
 
             Logger.Hook();
-            if (
-                AesCryp.Decrypt(
-                    @"K4kcF+kR9aoQ1H6kBTmuElgALgreQOJIgTsd4NBRYTP8+bDQ7qZiGddnmTKeUoeUoEHN4X0cp8/tI2PdCJKZVw==") ==
-                uhwid.AdvancedUid)
-            {
+            //if (
+            //    AesCryp.Decrypt(
+            //        @"K4kcF+kR9aoQ1H6kBTmuElgALgreQOJIgTsd4NBRYTP8+bDQ7qZiGddnmTKeUoeUoEHN4X0cp8/tI2PdCJKZVw==") ==
+            //    uhwid.AdvancedUid)
+            //{
 
                 //if (IsProcessOpen(GetFileNameDubleClick()))
                 //{
@@ -90,12 +90,12 @@ namespace RcisSchoolBell
                 {
                     MessageBox.Show(e.Message, @"IOException");
                 }
-            }
-            else
-            {
-                MessageBox.Show(@"invalic hwid");
-                Logger.UnHook();
-            }
+            //}
+            //else
+            //{
+            //    MessageBox.Show(@"invalic hwid");
+            //    Logger.UnHook();
+            //}
         }
 
         /// <summary>

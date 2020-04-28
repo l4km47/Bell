@@ -1,0 +1,18 @@
+D:\Projects\node\Bell\Bell\bin\Release\RCIS School bell.exe.config
+D:\Projects\node\Bell\Bell\bin\Release\RCIS School bell.exe
+D:\Projects\node\Bell\Bell\bin\Release\RCIS School bell.pdb
+D:\Projects\node\Bell\Bell\bin\Release\Interop.WMPLib.dll
+D:\Projects\node\Bell\Bell\bin\Release\AxInterop.WMPLib.dll
+D:\Projects\node\Bell\Bell\obj\Release\Bell.csprojAssemblyReference.cache
+D:\Projects\node\Bell\Bell\obj\Release\Interop.WMPLib.dll
+D:\Projects\node\Bell\Bell\obj\Release\AxInterop.WMPLib.dll
+D:\Projects\node\Bell\Bell\obj\Release\Bell.csproj.ResolveComReference.cache
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.AboutBox1.resources
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.Activation.resources
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.Controls.DigitalClockCtrl.resources
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.Form1.resources
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.FrmSettings.resources
+D:\Projects\node\Bell\Bell\obj\Release\RcisSchoolBell.Properties.Resources.resources
+D:\Projects\node\Bell\Bell\obj\Release\Bell.csproj.GenerateResource.cache
+D:\Projects\node\Bell\Bell\obj\Release\RCIS School bell.exe
+D:\Projects\node\Bell\Bell\obj\Release\RCIS School bell.pdb
