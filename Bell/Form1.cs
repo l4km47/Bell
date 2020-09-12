@@ -32,7 +32,6 @@ namespace RcisSchoolBell
             {
                 Size = new Size(tableLayoutPanel1.GetColumnWidths()[5], tableLayoutPanel1.GetRowHeights()[8]),
                 Location = new Point(0, 0),
-
             };
             tableLayoutPanel1.Controls.Add(digclk, 5, 8);
             digclk.SetDigitalColor = DigitalColor.BlueColor;

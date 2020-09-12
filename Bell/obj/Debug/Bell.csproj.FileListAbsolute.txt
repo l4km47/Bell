@@ -1,0 +1,18 @@
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\bin\Debug\RCIS School bell.exe.config
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\bin\Debug\RCIS School bell.exe
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\bin\Debug\RCIS School bell.pdb
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\Bell.csproj.ResolveComReference.cache
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.AboutBox1.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.Activation.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.Controls.DigitalClockCtrl.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.Form1.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.FrmSettings.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RcisSchoolBell.Properties.Resources.resources
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\Bell.csproj.GenerateResource.cache
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\Bell.csproj.CoreCompileInputs.cache
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RCIS School bell.exe
+C:\Users\LAKMAL\Documents\GitHub\Bell\Bell\obj\Debug\RCIS School bell.pdb
